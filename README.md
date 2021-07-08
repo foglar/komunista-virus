@@ -5,7 +5,7 @@ a nepřesouvat.
  - Pak otevřít html soubor Komunista1.html
 v notepadu, či jiném textovém editoru a upravit cestu (path)
 ke zvukovému souboru hymna.mp3 a
-png obrázkům
+png obrázkům (8.řádek, 11.řádek, 12.řádek, 20.řádek, 22.řádek)
  - Nakonec změnu v souboru uložit a otevřít
 Komunista1.html v prohlížeči, pokud stránka
 funguje a na pozadí běží zvuk můžete pokračovat
