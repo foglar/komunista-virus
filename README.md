@@ -16,4 +16,4 @@ podle vašich představ.
 funguje.
  - Hotovo, okno s virem se bude zobrazovat pokaždé
 až ho spustí task scheduler.
-http://www.nescius.chytrak.cz
+ - Více informací na http://www.nescius.chytrak.cz/viry
