@@ -4,7 +4,8 @@ README
 a nepřesouvat.
  - Pak otevřít html soubor Komunista1.html
 v notepadu, či jiném textovém editoru a upravit cestu (path)
-ke zvukovému souboru hymna.mp3 (11.řádek, 20.řádek)
+ke zvukovému souboru hymna.mp3 (11.řádek, 20.řádek) a
+favicon (8.řádek)
  - Nakonec změnu v souboru uložit a otevřít
 Komunista1.html v prohlížeči, pokud stránka
 funguje a na pozadí běží zvuk můžete pokračovat
