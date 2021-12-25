@@ -1,5 +1,23 @@
-#header {
-  position:absolute;
-  bottom:0;
-  right:0;
+input {
+  color: white;
+  background-color: red;
+  display: inline;
+  border-radius: 3px;
+  font-size: large;
+}
+
+input:hover {
+  background-color: silver;
+  transition-duration: 0.5s;
+}
+
+.close {
+  font-size: xx-large;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+}
+
+.close:hover {
+  transform: translate(-100px, 0px);
 }
